@@ -219,7 +219,7 @@ body {
 }
 .wrap-1 .logo h1 {
   font-size: 50px;
-  line-height: 115px;
+  line-height: 61px;
   color: #cf2323;
   font-family: ob;
 }
@@ -238,7 +238,7 @@ body {
   display: block;
   margin: 0 0 0 28px;
   padding: 5px 5px;
-  line-height: 120px;
+  line-height: 58px;
 }
 
 .wrap-1 nav ul li a:hover {
@@ -1200,7 +1200,7 @@ body {
 
   .mobile-menu {
     display: block;
-    margin-top: 40px;
+    margin-top: 18px;
   }
 
   .wrap-3 .about .btn {
